@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Haskell programming involving infinite lists and pattern matching. The `bug.hs` file contains code that attempts to find an even number in an infinite list of odd numbers, resulting in an infinite loop.  The `bugSolution.hs` file provides a corrected version that handles the case where the element is not found.
